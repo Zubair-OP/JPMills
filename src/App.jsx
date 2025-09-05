@@ -1,7 +1,7 @@
 import './index.css';
 import Video from './Components/Video';
 import Navbar from './Components/Navbar';
-import Herotext from './Components/herotext';
+import Herotext from './Components/Herotext';
 import About from './Components/About/About';
 import Product from './Components/Products/Product';
 import Customer from './Components/customers/Customer';
