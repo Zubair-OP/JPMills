@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+@font-face {
+    font-family: 'One';
+    src: url('/fonts/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.ttf');
+}
+
+@font-face {
+    font-family: 'two';
+    src: url('/fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.ttf');
+}
+@font-face {
+    font-family: 'three';
+    src: url('/fonts/pe0TMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp7t1R-s.ttf');
+}
+
+@font-face {
+    font-family: 'four';
+    src: url('/fonts/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.ttf');
+}
