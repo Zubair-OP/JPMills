@@ -2,7 +2,7 @@ import React from 'react'
 
 function Video() {
   return (
-    <div className="absolute  w-full h-screen top-0 left-0">
+    <div className="absolute w-full h-screen top-0 left-0">
       <video 
         loop 
         muted 

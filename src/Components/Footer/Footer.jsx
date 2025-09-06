@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className='w-full lg:h-[35vh] bg-[#464646] font-[three] py-2'>
       <div className='flex justify-center py-5'>
-        <img src="public\images\kml-logo-1.png" alt="" />
+        <img src="images/kml-logo-1.png" alt="" />
       </div>
       <hr className='text-white'/>
       <div className='w-full flex lg:mt-10 mt-2 px-3 gap-5 justify-between items-center'>
